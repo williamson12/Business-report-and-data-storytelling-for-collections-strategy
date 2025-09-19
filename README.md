@@ -15,7 +15,6 @@ The deliverable converts predictive modeling results into an actionable collecti
 - Translate insights into a SMART recommendation framework
 - Integrate principles of fairness, explainability, and responsible AI governance
 
-📎 File: `Task3_Business_Summary_Report_Formatted.docx`
 
 ---
 
