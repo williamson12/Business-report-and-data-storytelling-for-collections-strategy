@@ -1,6 +1,3 @@
-# Business-report-and-data-storytelling-for-collections-strategy
-
-
 # 📊 Tata Data Analytics Virtual Internship – Task 3
 
 This repository contains my Task 3 submission: Business Summary Report for the Tata Data Analytics Virtual Internship 2025.
